@@ -1,3 +1,7 @@
+// Hash set is best 
+// Time: O(n) 
+// Memory: O(n)
+
 class Solution:
   def containsDuplicate (self, nums: List[int]) -> bool:
     hashset = set()
